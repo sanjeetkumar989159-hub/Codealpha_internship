@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+ 
 const int SIZE = 9;
 
 // Function to display the Sudoku board
